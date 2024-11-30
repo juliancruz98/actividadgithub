@@ -9,3 +9,5 @@ const apellidoma = "Cruz";
 console.log('Hola $(apellidoma)');
 /*Prog3 Cambios */
 console.log('Mi edad es 21 añoss');
+/*Prog4 Cambios */
+console.log('Vivo en Altamira');
